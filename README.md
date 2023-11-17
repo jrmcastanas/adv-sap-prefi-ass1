@@ -1,4 +1,5 @@
 ## Assignment in Advanced Systems Integration & Architecture
+
 1. Define Service Oriented Architecture(SOA).
 - This is a modularized approach to the use of services through the net in which several processes are segregated into parts to act and provide services as a server.
 
